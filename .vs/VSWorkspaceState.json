@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\admin",
+    "\\resources\\views\\components",
+    "\\resources\\views\\components\\admin",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\vendor",
+    "\\routes",
+    "\\routes\\web"
+  ],
+  "SelectedNode": "\\resources\\views\\admin\\posts",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,19 @@
+public function store(){
+        $inputs = request()->validate([
+            'title'=>'required|min:8|max:255',
+            'post_image'=>'file',
+            'body'=>'required'
+        ]);
+
+        if($file = request('post_image')){
+ 
+           $name = $file->getClientOriginalName();
+            $file->move('images', $name);
+            $input['post_image'] = $name;
+        }
+
+        auth()->user()->posts()->create($inputs);
+        Session::flash('post-created-message','Post was created'); 
+        return redirect()->route('post.index');//redirect you to the post you already created
+
+    }

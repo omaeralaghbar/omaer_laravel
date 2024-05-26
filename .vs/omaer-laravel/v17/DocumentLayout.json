@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\omaer-laravel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\app\\Providers\\RouteServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\RouteServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\posts.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web\\posts.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\resources\\views\\components\\admin-master.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\admin-master.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\users.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web\\users.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\resources\\views\\components\\admin\\sidebar\\admin-sidebar-posts-links.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\admin\\sidebar\\admin-sidebar-posts-links.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\app\\Policies\\UserPolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Policies\\UserPolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\app\\Policies\\PostPolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Policies\\PostPolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\omaer-laravel\\app\\Providers\\AuthServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\AuthServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin-master.blade.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\resources\\views\\components\\admin-master.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\components\\admin-master.blade.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\resources\\views\\components\\admin-master.blade.php",
+              "RelativeToolTip": "resources\\views\\components\\admin-master.blade.php",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAACYBAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-22T19:14:48.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "users.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\users.php",
+              "RelativeDocumentMoniker": "routes\\web\\users.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\users.php",
+              "RelativeToolTip": "routes\\web\\users.php",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-21T20:02:19.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin-sidebar-posts-links.blade.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\resources\\views\\components\\admin\\sidebar\\admin-sidebar-posts-links.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\components\\admin\\sidebar\\admin-sidebar-posts-links.blade.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\resources\\views\\components\\admin\\sidebar\\admin-sidebar-posts-links.blade.php",
+              "RelativeToolTip": "resources\\views\\components\\admin\\sidebar\\admin-sidebar-posts-links.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-21T19:37:37.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "posts.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\posts.php",
+              "RelativeDocumentMoniker": "routes\\web\\posts.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\posts.php",
+              "RelativeToolTip": "routes\\web\\posts.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-21T19:23:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteServiceProvider.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Providers\\RouteServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\RouteServiceProvider.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Providers\\RouteServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\RouteServiceProvider.php",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-21T18:06:12.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPolicy.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Policies\\UserPolicy.php",
+              "RelativeDocumentMoniker": "app\\Policies\\UserPolicy.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Policies\\UserPolicy.php",
+              "RelativeToolTip": "app\\Policies\\UserPolicy.php",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-21T13:37:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\web.php",
+              "RelativeDocumentMoniker": "routes\\web\\web.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\routes\\web\\web.php",
+              "RelativeToolTip": "routes\\web\\web.php",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-07T16:26:28.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthServiceProvider.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Providers\\AuthServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\AuthServiceProvider.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Providers\\AuthServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\AuthServiceProvider.php",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-19T16:53:27.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostPolicy.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Policies\\PostPolicy.php",
+              "RelativeDocumentMoniker": "app\\Policies\\PostPolicy.php",
+              "ToolTip": "C:\\xampp\\htdocs\\omaer-laravel\\app\\Policies\\PostPolicy.php",
+              "RelativeToolTip": "app\\Policies\\PostPolicy.php",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-19T16:52:38.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
